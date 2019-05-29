@@ -1,0 +1,1 @@
+/* */package COM.codestorm.thunks;import COM.codestorm.mendel.*;class ContainerThunk implements AbstractThunk {public AbstractMember evaluate (AbstractMemberContainer m) throws MendelException {	return m.getStaticScope(MissingThrower.NoContainerThrower);}public String toString () {	return "(container)";}}

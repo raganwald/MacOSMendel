@@ -1,0 +1,23 @@
+ENGLISH	FRENCH	CLASS	FUNDNUMBER	CATEGORY	TYPE
+Asia		A	389	International	EquityBalanced
+Europe Plus		A	580	International	EquityBalanced
+Japan		A	578	International	EquityBalanced
+Latin America		A	413	International	EquityBalanced
+US Equity		A	705	International	EquityBalanced
+World Balanced		A	301	International	EquityBalanced
+World Emerging Companies		A	303	International	EquityBalanced
+World Equity		A	576	International	EquityBalanced
+Diversified Asia		A	421	Diversified	EquityBalanced
+Diversified Europe		X	423	Diversified	EquityBalanced
+Diversified Japan Plus		A	417	Diversified	EquityBalanced
+Diversified Latin America		A	415	Diversified	EquityBalanced
+Diversified World Equity		A	307	Diversified	EquityBalanced
+Canada Growth		A	386	Canadian	EquityBalanced
+Canadian Opportunities		A	427	Canadian	EquityBalanced
+Canadian Small Cap		A	305	Canadian	EquityBalanced
+Gold Plus		A	333	Canadian	EquityBalanced
+Income Plus		A	388	Canadian	EquityBalanced
+World Bond		A	565	International	Fixed
+Diversified Bond		A	571	Diversified	Fixed
+Diversified Foreign Bond		A	703	Diversified	Fixed
+Bond		A	419	Canadian	Fixed

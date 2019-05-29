@@ -1,0 +1,1 @@
+/* * Copyright (c) 1996, 1997 Codestorm Inc. All rights reserved. * */package COM.codestorm.mendel;public class NoPropertyException extends MendelException {public NoPropertyException () { super(); }public NoPropertyException (String msg) {	super(msg);}}

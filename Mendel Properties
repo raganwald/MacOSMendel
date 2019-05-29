@@ -1,0 +1,35 @@
+#Factory Mendel Properties
+#Thu Aug 07 12:45:43 1997
+kThisName=this
+kContainerName=container
+kMIMEJpeg=image/jpeg
+kIndexName=index
+kOpenHTMLTag=<HTML
+kMIMEGif=image/gif
+kCloseHTMLTag=</HTML>
+kLiteralPrefix=kDefaultLiteral
+kWindowWidth=30
+kPropertiesSuffix=.properties
+kGIFSuffix=.gif
+kWindowHeight=15
+kTopOutDirectory=Mendel Out
+kTopOutUrl=http://www.codestorm.com/mendel/
+kDefaultLiteral6=.acgi
+kDefaultLiteral5=.cgi
+kDefaultLiteral4=.class
+kDefaultLiteral3=.gif
+kDefaultLiteral2=.jpeg
+kDefaultLiteral1=.jpg
+kJPEGSuffix=.jpg
+kPublishFlag=PUBLISH
+kSleepTime=10000
+kParentName=super
+kURLSeparator=/
+kHTMLSuffix=.html
+kSeparator=.
+kMIMEHTML=text/html
+kURLPrefix=file:
+kTextSuffix=.txt
+kTopInDirectory=Mendel In
+kMIMEText=text/plain
+kCloseTag=>

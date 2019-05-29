@@ -1,0 +1,1 @@
+package COM.codestorm.thunks;import COM.codestorm.mendel.*;class ThisThunk implements AbstractThunk {public AbstractMember evaluate (AbstractMemberContainer m) {	return m;}public String toString () {	return "(this)";}}

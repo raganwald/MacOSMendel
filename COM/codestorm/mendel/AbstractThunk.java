@@ -1,0 +1,1 @@
+/** * Copyright (c) 1996, 1997 Codestorm Inc. All rights reserved. ***/package COM.codestorm.mendel;public interface AbstractThunk {static public final String parentSymbol = "^";static public final String containerSymbol = ".";static public final String thisSymbol = "..";AbstractMember evaluate (AbstractMemberContainer scope) throws MendelException;}

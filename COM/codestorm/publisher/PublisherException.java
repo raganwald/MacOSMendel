@@ -1,0 +1,1 @@
+/** * Copyright (c) 1996, 1997 Codestorm Inc. All rights reserved. ***/package COM.codestorm.publisher;import COM.codestorm.mendel.*;public class PublisherException extends MendelException {	public PublisherException() { super(); }	public PublisherException(String s) { super(s); }}

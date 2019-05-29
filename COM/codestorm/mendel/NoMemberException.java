@@ -1,0 +1,1 @@
+/* * Copyright (c) 1996, 1997 Codestorm Inc. All rights reserved. * */package COM.codestorm.mendel;public class NoMemberException extends MendelException {public NoMemberException () { super(); }public NoMemberException (String msg) { super(msg); }}

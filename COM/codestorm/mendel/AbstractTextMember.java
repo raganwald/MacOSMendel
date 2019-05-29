@@ -1,0 +1,1 @@
+/** ***/package COM.codestorm.mendel;import COM.codestorm.builders.HTMLString;public interface AbstractTextMember extends AbstractMember {public HTMLString asHTMLString () throws MendelException;}

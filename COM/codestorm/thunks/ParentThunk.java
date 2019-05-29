@@ -1,0 +1,1 @@
+/* */package COM.codestorm.thunks;import COM.codestorm.mendel.*;class ParentThunk implements AbstractThunk {public AbstractMember evaluate (AbstractMemberContainer m) throws MendelException {	return m.getParent(MissingThrower.NoParentThrower);}public String toString () {	return "(parent)";}}

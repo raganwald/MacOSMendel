@@ -1,0 +1,1 @@
+/* * Copyright (c) 1996, 1997 Codestorm Inc. All rights reserved. * */package COM.codestorm.mendel;public class NoParentException extends NoMemberException {public NoParentException () { super(); }public NoParentException (String msg) { super(msg); }}

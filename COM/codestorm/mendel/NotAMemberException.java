@@ -1,0 +1,1 @@
+/* * Copyright (c) 1996, 1997 Codestorm Inc. All rights reserved. * */package COM.codestorm.mendel;public class NotAMemberException extends MendelException {protected String word;public String getWord () {	return word;}public NotAMemberException() {	super();	word = "";}public NotAMemberException(String s) {	super(s+" is not a member");	word = s;}}
